@@ -4,6 +4,7 @@ public class Find_Second_Largest{
             if(array1[i] > largest){
                 secondLargest = largest;
                 largest = array1[i];
+                
                 }else if(array1[i] > secondLargest && array1[i] < largest){
                     secondLargest = array1[i];
             }
