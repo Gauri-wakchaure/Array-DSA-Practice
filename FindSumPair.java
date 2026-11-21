@@ -1,7 +1,7 @@
 public class FindSumPair{
     public static void main(String[] args) {
         int array[] = {5, 15, 8, 12, 20, 3};
-        int target = 100;
+        int target = 23;
         int i = 0;
         int j = 1;
         boolean result = false;
