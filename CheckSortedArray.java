@@ -1,6 +1,6 @@
 public class CheckSortedArray{
     public static void main(String args[]){
-       int array[] = {10, 20, 30, 40, 50, 90, 60, 70, 80};
+       int array[] = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100};
        boolean sorted = true;
 
        for(int i = 0; i < array.length-1; i++){
